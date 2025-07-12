@@ -1,0 +1,11 @@
+../fuzzyLib/Src/FuzzyComposition.cpp:17:1:FuzzyComposition::FuzzyComposition()	1
+../fuzzyLib/Src/FuzzyComposition.cpp:23:1:FuzzyComposition::~FuzzyComposition()	1
+../fuzzyLib/Src/FuzzyComposition.cpp:29:6:bool FuzzyComposition::addPoint(float, float)	5
+../fuzzyLib/Src/FuzzyComposition.cpp:70:6:bool FuzzyComposition::checkPoint(float, float)	4
+../fuzzyLib/Src/FuzzyComposition.cpp:88:6:bool FuzzyComposition::build()	6
+../fuzzyLib/Src/FuzzyComposition.cpp:126:7:float FuzzyComposition::calculate()	17
+../fuzzyLib/Src/FuzzyComposition.cpp:197:6:bool FuzzyComposition::empty()	1
+../fuzzyLib/Src/FuzzyComposition.cpp:207:5:int FuzzyComposition::countPoints()	2
+../fuzzyLib/Src/FuzzyComposition.cpp:225:6:void FuzzyComposition::cleanPoints(pointsArray*)	2
+../fuzzyLib/Src/FuzzyComposition.cpp:236:6:bool FuzzyComposition::rebuild(pointsArray*, pointsArray*, pointsArray*, pointsArray*)	14
+../fuzzyLib/Src/FuzzyComposition.cpp:325:6:bool FuzzyComposition::rmvPoint(pointsArray*)	2

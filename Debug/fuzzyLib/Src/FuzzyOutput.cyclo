@@ -1,0 +1,9 @@
+../fuzzyLib/Src/FuzzyOutput.cpp:16:1:FuzzyOutput::FuzzyOutput()	1
+../fuzzyLib/Src/FuzzyOutput.cpp:22:1:FuzzyOutput::FuzzyOutput(int)	1
+../fuzzyLib/Src/FuzzyOutput.cpp:29:1:FuzzyOutput::~FuzzyOutput()	1
+../fuzzyLib/Src/FuzzyOutput.cpp:37:6:bool FuzzyOutput::truncate()	17
+../fuzzyLib/Src/FuzzyOutput.cpp:143:7:float FuzzyOutput::getCrispOutput()	1
+../fuzzyLib/Src/FuzzyOutput.cpp:150:6:bool FuzzyOutput::order()	6
+../fuzzyLib/Src/FuzzyOutput.cpp:181:19:FuzzyComposition* FuzzyOutput::getFuzzyComposition()	1
+../fuzzyLib/Src/FuzzyOutput.cpp:189:6:bool FuzzyOutput::swap(fuzzySetArray*, fuzzySetArray*)	1
+../fuzzyLib/Src/FuzzyOutput.cpp:201:6:bool FuzzyOutput::rebuild(float, float, float, float, float, float, float, float, float*, float*)	9

@@ -1,0 +1,9 @@
+../fuzzyLib/Src/FuzzyIO.cpp:16:1:FuzzyIO::FuzzyIO()	1
+../fuzzyLib/Src/FuzzyIO.cpp:20:1:FuzzyIO::FuzzyIO(int)	1
+../fuzzyLib/Src/FuzzyIO.cpp:29:1:FuzzyIO::~FuzzyIO()	1
+../fuzzyLib/Src/FuzzyIO.cpp:37:5:int FuzzyIO::getIndex()	1
+../fuzzyLib/Src/FuzzyIO.cpp:43:6:void FuzzyIO::setCrispInput(float)	1
+../fuzzyLib/Src/FuzzyIO.cpp:49:7:float FuzzyIO::getCrispInput()	1
+../fuzzyLib/Src/FuzzyIO.cpp:55:6:bool FuzzyIO::addFuzzySet(FuzzySet*)	5
+../fuzzyLib/Src/FuzzyIO.cpp:93:6:void FuzzyIO::resetFuzzySets()	2
+../fuzzyLib/Src/FuzzyIO.cpp:108:6:void FuzzyIO::cleanFuzzySets(fuzzySetArray*)	2

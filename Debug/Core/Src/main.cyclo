@@ -1,0 +1,14 @@
+../Core/Src/main.cpp:110:5:int main()	4
+../Core/Src/main.cpp:215:6:void SystemClock_Config()	4
+../Core/Src/main.cpp:258:13:void MX_ADC1_Init()	4
+../Core/Src/main.cpp:310:13:void MX_I2C1_Init()	2
+../Core/Src/main.cpp:342:13:void MX_TIM3_Init()	8
+../Core/Src/main.cpp:403:13:void MX_DMA_Init()	1
+../Core/Src/main.cpp:420:13:void MX_GPIO_Init()	1
+../Core/Src/main.cpp:434:6:void setupFuzzy()	1
+../Core/Src/main.cpp:460:6:void configureFuzzyRule()	1
+../Core/Src/main.cpp:512:6:void addRule(int, FuzzySet*, FuzzySet*, FuzzyRuleConsequent*)	2
+../Core/Src/main.cpp:524:7:float scaleLightValue(uint16_t, uint16_t, uint16_t, uint16_t, uint16_t)	1
+../Core/Src/main.cpp:534:6:void Error_Handler()	1
+../Core/Src/main.cpp:541:1:void __static_initialization_and_destruction_0(int, int)	3
+../Core/Src/main.cpp:541:1:cpp)	1

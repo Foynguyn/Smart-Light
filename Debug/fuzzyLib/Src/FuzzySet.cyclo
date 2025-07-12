@@ -1,0 +1,10 @@
+../fuzzyLib/Src/FuzzySet.cpp:16:1:FuzzySet::FuzzySet()	1
+../fuzzyLib/Src/FuzzySet.cpp:20:1:FuzzySet::FuzzySet(float, float, float, float)	1
+../fuzzyLib/Src/FuzzySet.cpp:32:7:float FuzzySet::getPointA()	1
+../fuzzyLib/Src/FuzzySet.cpp:38:7:float FuzzySet::getPointB()	1
+../fuzzyLib/Src/FuzzySet.cpp:44:7:float FuzzySet::getPointC()	1
+../fuzzyLib/Src/FuzzySet.cpp:50:7:float FuzzySet::getPointD()	1
+../fuzzyLib/Src/FuzzySet.cpp:56:6:bool FuzzySet::calculatePertinence(float)	15
+../fuzzyLib/Src/FuzzySet.cpp:113:6:void FuzzySet::setPertinence(float)	2
+../fuzzyLib/Src/FuzzySet.cpp:123:7:float FuzzySet::getPertinence()	1
+../fuzzyLib/Src/FuzzySet.cpp:129:6:void FuzzySet::reset()	1
